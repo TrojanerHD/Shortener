@@ -7,9 +7,9 @@ Open the .xpi file from the [releases](https://github.com/TrojanerHD/Shortener/r
 Currently supported:
 Keyword | Redirects to | Limitations
 --- | --- | ---
-`yt` | https://youtube.com/feed/subscriptions/ | Only available when duckduckgo.com or google.com is set as default search engine
-`r/<subreddit>` | https://reddit.com/r/<subreddit> | None 
-`tw.tv/<Username`<br>`tw/<Username>` | https://twitch.tv/<Username> | None 
+`yt` | https://<!---->youtube.com/feed/subscriptions/ | Only available when duckduckgo.com or google.com is set as default search engine
+`r/<subreddit>` | https://<!---->reddit.com/r/\<subreddit> | None 
+`tw.tv/<username`<br>`tw/<username>` | https://<!---->twitch.tv/\<Username> | None 
 ## Deployment
 Download the repository's source code, unzip it and open the files with an editor of your choice
 ## Testing
