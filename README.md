@@ -9,7 +9,7 @@ Keyword | Redirects to | Limitations
 --- | --- | ---
 `yt` | https://<!---->youtube.com/feed/subscriptions/ | Only available when duckduckgo.com or google.com is set as default search engine
 `r/<subreddit>` | https://<!---->reddit.com/r/\<subreddit> | None 
-`tw.tv/<username`<br>`tw/<username>` | https://<!---->twitch.tv/\<Username> | None 
+`tw.tv/<username`<br>`tw/<username>` | https://<!---->twitch.tv/\<username> | None 
 ## Deployment
 Download the repository's source code, unzip it and open the files with an editor of your choice
 ## Testing
