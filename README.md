@@ -10,7 +10,7 @@ Keyword | Redirects to | Limitations
 --- | --- | ---
 `yt` | https://<!---->youtube.com/feed/subscriptions/ | Only available when duckduckgo.com or google.com is set as default search engine
 `r/<subreddit>` | https://<!---->reddit.com/r/\<subreddit> | None 
-`tw.tv/<username`<br>`tw/<username>` | https://<!---->twitch.tv/\<Username> | None 
+`tw.tv/<username`<br>`tw/<username>` | https://<!---->twitch.tv/\<username> | None 
 ## Deployment
 - Install [Node.js](https://nodejs.org/en/)
 - Install typescript (`npm i -g typescript` or `yarn global add typescript`)
