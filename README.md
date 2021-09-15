@@ -6,6 +6,7 @@ I originally programmed this plugin for private use and made it public just for 
 Open the .xpi file from the [releases](https://github.com/TrojanerHD/Shortener/releases) and add it as extension to the browser.
 ## Usage
 Currently supported:
+
 Keyword | Redirects to | Limitations
 --- | --- | ---
 `yt` | https://<!---->youtube.com/feed/subscriptions/ | Only available when duckduckgo.com or google.com is set as default search engine
